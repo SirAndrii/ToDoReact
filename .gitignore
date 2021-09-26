@@ -22,7 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-./todo.css
-/todo.js
+todo.css
+todo.js
 calendar.png
 index.html
